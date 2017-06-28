@@ -2034,3 +2034,8 @@ p.form-submit,
 .strong-view.modern .testimonial-content p {
 	font-family: 'Handlee', cursive;
 }
+
+/* contact form 7 list fix, one every line */
+span.wpcf7-list-item {
+	display: block;
+}
