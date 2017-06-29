@@ -2037,5 +2037,5 @@ p.form-submit,
 
 /* contact form 7 list fix, one every line */
 span.wpcf7-list-item {
-	display: block;
+	display: inline-block;
 }
