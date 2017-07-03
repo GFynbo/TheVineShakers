@@ -1999,6 +1999,11 @@ p.form-submit,
 		margin-right: 18px;
 	}
 
+	/* Sub menu fix */
+	.genesis-nav-menu .sub-menu .booked-submenu .menu-item a:hover {
+		color: white;
+	}
+
 }
 
 @media only screen and (min-width: 1100px) {
@@ -2039,9 +2044,4 @@ p.form-submit,
 /* contact form 7 list fix, one every line */
 span.wpcf7-list-item {
 	display: block;
-}
-
-/* Sub menu fix */
-.booked-submenu .menu-item .menu-item-type-post_type .menu-item-object-page .menu-item-281 a:hover {
-	color: white;
 }
