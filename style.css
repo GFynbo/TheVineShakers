@@ -2042,6 +2042,6 @@ span.wpcf7-list-item {
 }
 
 /* Sub menu fix */
-.booked-submenu:hover {
+.booked-submenu a:hover {
 	color: white;
 }
