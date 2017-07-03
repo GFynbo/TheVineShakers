@@ -1861,6 +1861,10 @@ p.form-submit,
 		color: #fff;
 	}
 
+	.genesis-nav-menu .sub-menu a:hover {
+		color: #fff;
+	}
+
 	.genesis-nav-menu .sub-menu,
 	.genesis-nav-menu .sub-menu a {
 		text-align: center;
