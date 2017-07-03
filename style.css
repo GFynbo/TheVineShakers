@@ -2039,3 +2039,8 @@ p.form-submit,
 span.wpcf7-list-item {
 	display: block;
 }
+
+/* Fix sub menu */
+.genesis-nav-menu .sub-menu a:hover {
+	color: white;
+}
