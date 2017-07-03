@@ -1867,10 +1867,6 @@ p.form-submit,
 		width: 200px;
 	}
 
-	/* Fix submenu hover feature */
-	.genesis-nav-menu .sub-menu a:hover {
-		color: white;
-	}
 
 	.genesis-nav-menu .sub-menu .sub-menu {
 		margin: -53px 0 0 199px;
@@ -2043,4 +2039,9 @@ p.form-submit,
 /* contact form 7 list fix, one every line */
 span.wpcf7-list-item {
 	display: block;
+}
+
+/* Sub menu fix */
+.genesis-nav-menu .sub-menu, .genesis-nav-menu .sub-menu a:hover {
+	color: white;
 }
