@@ -2042,6 +2042,6 @@ span.wpcf7-list-item {
 }
 
 /* Sub menu fix */
-.genesis-nav-menu .sub-menu, .genesis-nav-menu .sub-menu a:hover {
+.booked-submenu:hover {
 	color: white;
 }
